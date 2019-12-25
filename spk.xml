@@ -1,0 +1,8 @@
+<?xml version="1.0" ?><spk><Karyawan alt="Koto Mangga" jekel="P" kd_kar="K-002" nm_kar="SUKIMIN"/><Karyawan alt="Jakarta tenggara" jekel="P" kd_kar="K-004" nm_kar="Susi similikiti"/>
+<kriteria bobot="10.0" kode="C1" tipe="B"/>
+<kriteria bobot="20.0" kode="C2" tipe="B"/>
+<kriteria bobot="25.0" kode="C3" tipe="B"/>
+<kriteria bobot="10.0" kode="C4" tipe="B"/>
+<kriteria bobot="10.0" kode="C5" tipe="C"/>
+<kriteria bobot="25.0" kode="C6" tipe="B"/>
+<nilai c1="5" c2="6" c3="7" c4="8" c5="4" c6="5" kd_kar="K-004"/><nilai c1="4" c2="8" c3="10" c4="3" c5="1" c6="8" kd_kar="K-002"/><Karyawan alt="bumi" jekel="P" kd_kar="k-009" nm_kar="kori"/><nilai c1="10" c2="10" c3="7" c4="7" c5="1" c6="9" kd_kar="k-009"/></spk>
